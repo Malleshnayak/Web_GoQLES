@@ -1,0 +1,14 @@
+
+.nav > li > a:hover,
+.nav > li > a:active,
+.nav > li > a:focus{
+    background-color:transparent;
+}
+
+.form-control {
+  border:0;
+  outline: 0;
+  border-top: 1px black; 
+  background: transparent;
+  border-bottom: 1px solid black;
+}
